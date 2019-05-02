@@ -1,4 +1,3 @@
-#! /usr/bin/env python3
 import requests
 import ctypes
 url = "https://api.nasa.gov/planetary/apod?api_key=YOUR API KEY HERE"
